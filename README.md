@@ -22,11 +22,6 @@
 </div>
 <br>
 
-📁 **Projetos em Destaque:**
-- 🚧 **[Nome do Projeto 1]** - *Breve descrição (Ex: Script de automação de tarefas).* (Tecnologias: Python)
-- 🚧 **[Nome do Projeto 2]** - *Breve descrição (Ex: Landing page de estudos).* (Tecnologias: HTML, CSS, JS)
-> *Nota: Adicione os links para os seus repositórios aqui!*
-
 📫 **Como me encontrar:**
 - 💼 **LinkedIn:** [Camilly Guimarães](https://www.linkedin.com/in/camilly-guimar%C3%A3es-196970415)
 - 📧 **E-mail:** [camillydossantoss24@gmail.com](mailto:camillydossantoss24@gmail.com)
