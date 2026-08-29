@@ -22,6 +22,10 @@
 </div>
 <br>
 
+📁 **Projeto Principal:**
+- ☕ **[Agente Cafeteria](https://github.com/camicams-web/agente-cafeteria)** - *Um projeto focado no desenvolvimento de um agente inteligente para o contexto de uma cafeteria. Sinta-se à vontade para explorar o código!* 
+> Link: https://cafeteriamiaucafe.lovable.app/
+
 📫 **Como me encontrar:**
 - 💼 **LinkedIn:** [Camilly Guimarães](https://www.linkedin.com/in/camilly-guimar%C3%A3es-196970415)
 - 📧 **E-mail:** [camillydossantoss24@gmail.com](mailto:camillydossantoss24@gmail.com)
